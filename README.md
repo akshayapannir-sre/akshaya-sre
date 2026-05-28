@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:akshayapannir11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshayapanneerselvam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akshayapanneerselvam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=akshayapannir-sre&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
@@ -42,7 +42,7 @@
 **Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Elastic](https://img.shields.io/badge/EFK_Stack-005571?style=flat&logo=elastic&logoColor=white)
+![EFK Stack](https://img.shields.io/badge/EFK_Stack-005571?style=flat&logo=elastic&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat&logo=jaeger&logoColor=white)
 
 **Security**
@@ -59,23 +59,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayapannir-sre&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayapannir-sre&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayapannir-sre&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayapannir-sre&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayapannir-sre&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=akshayapannir-sre&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
-<!-- These will auto-show once you pin repos on GitHub -->
+
 > 🚧 Projects loading... Check pinned repos below!
 
 ---
 
 ## 📝 Latest Blog Posts
-<!-- Replace with your Dev.to or Hashnode posts once you start writing -->
+
 - Coming soon on [Dev.to](https://dev.to/)
 
 ---
